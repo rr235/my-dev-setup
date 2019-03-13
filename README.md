@@ -33,7 +33,7 @@ Terminal > Preferences > Profiles and select the "Solarized Dark" theme and clic
 
 Font can be any *Monospaced Font*
 I am using [Hack](https://sourcefoundry.org/hack/) patched with [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
-Download Nerd Font Pathed Hack(make sure you install the complete mono version) from https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete
+Download Nerd Font Pathed Hack(make sure you install the complete version) from https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete
 
 Terminal > Preferences > Profiles > Text > Font > Change to *Hack Regular Nerd Font Complete 12pt*
 
