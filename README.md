@@ -1,4 +1,4 @@
-# My Badass Zsh Powerline using Powerlevel9k
+# Zsh Powerline using Powerlevel9k
 
 ![alt text](images/screen1.png "git clean")
 ![alt text](images/screen2.png "git untracked")
@@ -54,7 +54,11 @@ If the verision is not 2.7.x, install using homebrew `brew install python`
 
 pip is a package manager for Python.
 
-`sudo easy_install pip`
+Download pip `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+
+Run the file `python get-pip.py`
+
+Add python lib path to Path, in `~/.zshrc` add `export PATH="/usr/local/opt/python/libexec/bin:$PATH"`
 
 ### Install XCode Developer CLI tools
 
